@@ -1,0 +1,2802 @@
+fileFormatVersion: 2
+guid: fa497bb76d7dee843bc07e13c043e1bb
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SciFiCreatures_NES_4x30_alphaBG_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 928
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 718b97bcdc8014a408a27c50623e8742
+      internalID: 211289072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFiCreatures_NES_4x30_alphaBG_1
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 928
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ed58369700b6ec42be96386ef7aee72
+      internalID: 1482196212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFiCreatures_NES_4x30_alphaBG_2
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 928
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa33279560a3f344fa2146393ff9ce9c
+      internalID: -258869179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFiCreatures_NES_4x30_alphaBG_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 931
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1db15e69b94122744af5af2f04e7e469
+      internalID: -221783262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFiCreatures_NES_4x30_alphaBG_4
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 952
+        width: 17
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28193ca86521b0d428ed275e827a796e
+      internalID: -1639491218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFiCreatures_NES_4x30_alphaBG_5
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 929
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f5dda00889e97f4997fcc86e308154f
+      internalID: 31080856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFiCreatures_NES_4x30_alphaBG_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 899
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04dc368bc5ceea54ca07f5563c2f2fed
+      internalID: -12166653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFiCreatures_NES_4x30_alphaBG_7
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 899
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4aee5f46b896e645a9a1dc9cb75bbe0
+      internalID: 1083105080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFiCreatures_NES_4x30_alphaBG_8
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 899
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf773946445b98f4c865c8157426f489
+      internalID: 1110664784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFiCreatures_NES_4x30_alphaBG_9
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 896
+        width: 30
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab8fe1e08a4bdb74989a3950bf7a48fb
+      internalID: -183915356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFiCreatures_NES_4x30_alphaBG_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 875
+        width: 30
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c8b0ee171dd7d047a5430d26a707905
+      internalID: -1204338855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFiCreatures_NES_4x30_alphaBG_11
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 875
+        width: 31
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 300f0e15f141b894cab82759593bd80d
+      internalID: 1307413489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFiCreatures_NES_4x30_alphaBG_12
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 875
+        width: 32
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14783f1507aca17468a52ad70e0c4b5a
+      internalID: 1350799987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFiCreatures_NES_4x30_alphaBG_13
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 865
+        width: 29
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3307897abd4d35740a4a704089147e98
+      internalID: 808274004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFiCreatures_NES_4x30_alphaBG_14
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 832
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50f615248464b9c4694db1ddfe07951e
+      internalID: -61184792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFiCreatures_NES_4x30_alphaBG_15
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 832
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d796fbc1a660f4944bbdcbedd3d25315
+      internalID: -1033965190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFiCreatures_NES_4x30_alphaBG_16
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 832
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1822ccd390aa69b47952301135f2814d
+      internalID: -57834348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFiCreatures_NES_4x30_alphaBG_17
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 835
+        width: 31
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe6377a809a3e4d4bbbaff3b6d982a5a
+      internalID: -38619798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFiCreatures_NES_4x30_alphaBG_18
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 802
+        width: 30
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7845e10f01adecd41b1a271754590f8d
+      internalID: 2111042211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFiCreatures_NES_4x30_alphaBG_19
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 802
+        width: 31
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 752845da7cc628344b096d778eb530c0
+      internalID: -712599296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFiCreatures_NES_4x30_alphaBG_20
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 802
+        width: 31
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0edb877d6f236245be2b472f2547e38
+      internalID: 1845904141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFiCreatures_NES_4x30_alphaBG_21
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 802
+        width: 30
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e4a80ceb37063b40bad4fb841dbf23f
+      internalID: -157612871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFiCreatures_NES_4x30_alphaBG_22
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 772
+        width: 29
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aeeebfcce4bb1c64595ae1a8e04d28ac
+      internalID: -827543653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFiCreatures_NES_4x30_alphaBG_23
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 772
+        width: 28
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2048a99322792a046a306be794ba403a
+      internalID: 1326391087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFiCreatures_NES_4x30_alphaBG_24
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 770
+        width: 28
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4de2edc6c69a904faf0a855f26915f0
+      internalID: 1002564982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFiCreatures_NES_4x30_alphaBG_25
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 773
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 027194a5bde00df4daf3ae7328c75880
+      internalID: -2080474520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFiCreatures_NES_4x30_alphaBG_26
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 736
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8eac9fa8deaa46e43a1fdc20263583dd
+      internalID: 1546246840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFiCreatures_NES_4x30_alphaBG_27
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 736
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 409d6129cbbd7fa439fc0523e1ba52f9
+      internalID: -872010591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFiCreatures_NES_4x30_alphaBG_28
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 736
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e12fffcf8125654795317eb1b1d435f
+      internalID: -1658643784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFiCreatures_NES_4x30_alphaBG_29
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 739
+        width: 31
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0b2f7a91048a1b49b74268325f9e460
+      internalID: -1210379759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFiCreatures_NES_4x30_alphaBG_30
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 706
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fb9e210ab267e249b34fa78f16cc6fa
+      internalID: 320192829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFiCreatures_NES_4x30_alphaBG_31
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 706
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0baa5b4f138342a47a176fdef7d25732
+      internalID: -2004141155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFiCreatures_NES_4x30_alphaBG_32
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 706
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ace3dbca95693d49a6eb61a3a0acc2f
+      internalID: 1676716737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFiCreatures_NES_4x30_alphaBG_33
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 706
+        width: 29
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1edd8270d12c824eafa9ca9f8aa24d4
+      internalID: 701991477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFiCreatures_NES_4x30_alphaBG_34
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 680
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57bd9d3db0f7bf145a91ed2406a581ca
+      internalID: -907738805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFiCreatures_NES_4x30_alphaBG_35
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 676
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44cb8e2450c00ed48ac1e164c353f784
+      internalID: -1652213203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFiCreatures_NES_4x30_alphaBG_36
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 674
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59a6edd8d14514b489070dcdbb15ea57
+      internalID: -1266707313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFiCreatures_NES_4x30_alphaBG_37
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 674
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e38b6c1ef5c1504448a209961a58866a
+      internalID: 399643020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFiCreatures_NES_4x30_alphaBG_38
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 608
+        width: 28
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16920a21e620f354bbe29f07e8d5dbb8
+      internalID: 112700386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFiCreatures_NES_4x30_alphaBG_39
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 608
+        width: 28
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: beec7045f9c9db74788e676ba568be8f
+      internalID: -1339481199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFiCreatures_NES_4x30_alphaBG_40
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 608
+        width: 28
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 058f2e78aa45200478b36af5a8dd95f9
+      internalID: -1490532485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFiCreatures_NES_4x30_alphaBG_41
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 642
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc973832d3e289443a6e8ee5f08abe93
+      internalID: 1065439668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFiCreatures_NES_4x30_alphaBG_42
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 611
+        width: 32
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d36d590ccd68b845bf5256b58b6784c
+      internalID: 1170362072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFiCreatures_NES_4x30_alphaBG_43
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 609
+        width: 9
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 932fbfe2f57e089419a35b3d37928e62
+      internalID: 376000756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFiCreatures_NES_4x30_alphaBG_44
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 582
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4e5da141a54cb14ab02d32074422f39
+      internalID: -1823851814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFiCreatures_NES_4x30_alphaBG_45
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 582
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a190a6a0b733964a9f8d6fe9e9d13d7
+      internalID: -161978785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFiCreatures_NES_4x30_alphaBG_46
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 582
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b38a6a1761a8e274794e7d1c2c3da9eb
+      internalID: -1543074152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFiCreatures_NES_4x30_alphaBG_47
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 581
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 839335fada3718c4894b452d313996f3
+      internalID: 487959878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFiCreatures_NES_4x30_alphaBG_48
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 552
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 559f2e07686710341b9d8a2eef23039a
+      internalID: 685125228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFiCreatures_NES_4x30_alphaBG_49
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 551
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fecc1b55f5fcdd94093a225fb4e3cd36
+      internalID: -2011086617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFiCreatures_NES_4x30_alphaBG_50
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 549
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f35b2d853e6ae0a4888ac37cdbc0c432
+      internalID: 1381326597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFiCreatures_NES_4x30_alphaBG_51
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 551
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3c90430769458d49958a3077e3837ad
+      internalID: 232209482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFiCreatures_NES_4x30_alphaBG_52
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 553
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d1b1c91c3caed441891b7bd06757fb5
+      internalID: 1543185247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFiCreatures_NES_4x30_alphaBG_53
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 546
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62ebca627b868e44b92b25123600d641
+      internalID: 1617474917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFiCreatures_NES_4x30_alphaBG_54
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 522
+        width: 31
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8f08162cd4888a438e5c49905c42c23
+      internalID: 939965696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFiCreatures_NES_4x30_alphaBG_55
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 521
+        width: 31
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00bb82486786f944680e28bfa0a61e85
+      internalID: 1480928530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFiCreatures_NES_4x30_alphaBG_56
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 520
+        width: 31
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9cda3a918ce7e143ac22c26f00e48b3
+      internalID: 2102852208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFiCreatures_NES_4x30_alphaBG_57
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 514
+        width: 30
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfe92ffc12b684b44b422bb549d65883
+      internalID: -2010056435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFiCreatures_NES_4x30_alphaBG_58
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 490
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22e67e3a3798cc34db1532af2f4a160f
+      internalID: -900584550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFiCreatures_NES_4x30_alphaBG_59
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 488
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65665f7a6d7f8a349983ff173df00cfe
+      internalID: -371844370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFiCreatures_NES_4x30_alphaBG_60
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 487
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f3c4eb6e6767814f9fad10022e977d3
+      internalID: 406925316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFiCreatures_NES_4x30_alphaBG_61
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 483
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f43f82dcd4b3584198f49bdfa5f9ccf
+      internalID: 2066519977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFiCreatures_NES_4x30_alphaBG_62
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 450
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37ca36925b36916499eab5b86d48adbf
+      internalID: -43421231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFiCreatures_NES_4x30_alphaBG_63
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 450
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f721901c221ca9849b80cda7d707b656
+      internalID: -395947735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFiCreatures_NES_4x30_alphaBG_64
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 450
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c0e4f06e3d8c294ea145a045a546115
+      internalID: 1202942179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFiCreatures_NES_4x30_alphaBG_65
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 450
+        width: 25
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ad767a8ebbdede489ed366cb82623e6
+      internalID: -1879879835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFiCreatures_NES_4x30_alphaBG_66
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 420
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80afad2fe5c605d4b8278b5eb3566363
+      internalID: 158494730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFiCreatures_NES_4x30_alphaBG_67
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 420
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2eb9b56bb6ef5c4408839bd56465797a
+      internalID: -2066813441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFiCreatures_NES_4x30_alphaBG_68
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 420
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e10a42fb4f6088346a07f559bc4333d9
+      internalID: 722377655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFiCreatures_NES_4x30_alphaBG_69
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 419
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e2f8e2606be0a146a6fc9fd7f0997d9
+      internalID: 1488850835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFiCreatures_NES_4x30_alphaBG_70
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 386
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 163be512d7d34e641a9d08fefdfebb7c
+      internalID: -163101726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFiCreatures_NES_4x30_alphaBG_71
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 387
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 720904b04031ad14398bfee01fb6e24f
+      internalID: 28335121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFiCreatures_NES_4x30_alphaBG_72
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 386
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 751ca0cdf7762d342806840366163824
+      internalID: -1626685656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFiCreatures_NES_4x30_alphaBG_73
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 386
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 291d22d8ffbff7343bd50528ab4ac700
+      internalID: -795005568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFiCreatures_NES_4x30_alphaBG_74
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 352
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f89c1c409d65b0244bae73937f6f1258
+      internalID: -801500071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFiCreatures_NES_4x30_alphaBG_75
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 352
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 877873c331ddbbd429b35eb4e9106a9f
+      internalID: -1015608089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFiCreatures_NES_4x30_alphaBG_76
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 352
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3040b43eedbf50440981c3165553e8f1
+      internalID: -1114672796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFiCreatures_NES_4x30_alphaBG_77
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 357
+        width: 32
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df7dc7f096faaa0459424cb5811db3cc
+      internalID: -1341989831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFiCreatures_NES_4x30_alphaBG_78
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 352
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae0707ec406a18942b2298bb6828e601
+      internalID: -165521430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFiCreatures_NES_4x30_alphaBG_79
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 323
+        width: 31
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af7fe6241c8c9a441b9a781a8baefd3a
+      internalID: 658133782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFiCreatures_NES_4x30_alphaBG_80
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 323
+        width: 31
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 851cfb6bddb2ef544b413edb5924c2d8
+      internalID: -1517878716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFiCreatures_NES_4x30_alphaBG_81
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 323
+        width: 32
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9e1aa8167a4b9d40a27b831390f7d54
+      internalID: 517548279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFiCreatures_NES_4x30_alphaBG_82
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 326
+        width: 31
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7e37f5ebac6ee74eb8b0c524f035b2a
+      internalID: -1852936523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFiCreatures_NES_4x30_alphaBG_83
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 288
+        width: 30
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b3e771243be8bb43bd1fac1473d5f19
+      internalID: 955222334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFiCreatures_NES_4x30_alphaBG_84
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 288
+        width: 28
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 010d33fb54df59d418e556a0e223681e
+      internalID: -970932354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFiCreatures_NES_4x30_alphaBG_85
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 288
+        width: 27
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe6ef8308b699f04981b81e8e5feeeae
+      internalID: 45648896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFiCreatures_NES_4x30_alphaBG_86
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 288
+        width: 30
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd8e64d1086047141bc385085f84896e
+      internalID: -930591695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFiCreatures_NES_4x30_alphaBG_87
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 262
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 019102bc359d3f04e8098898da20a93f
+      internalID: -193320008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFiCreatures_NES_4x30_alphaBG_88
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 262
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9afceeac965a284459f67cd295062d07
+      internalID: 1491249116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFiCreatures_NES_4x30_alphaBG_89
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 262
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c855bec5241f6894584871427394c388
+      internalID: -275103024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFiCreatures_NES_4x30_alphaBG_90
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 230
+        width: 30
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 561f340ca6577ec4daed34a53c68ec9e
+      internalID: 866621753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFiCreatures_NES_4x30_alphaBG_91
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 230
+        width: 31
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e549dde34505c264fa96032ba3b02b4f
+      internalID: 1037252795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFiCreatures_NES_4x30_alphaBG_92
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 230
+        width: 32
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5990fa2584e356646a1145bbdb844957
+      internalID: -1460091526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFiCreatures_NES_4x30_alphaBG_93
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 197
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f092c7de4b2d4a14c800749728d2d0f6
+      internalID: -338763815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFiCreatures_NES_4x30_alphaBG_94
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 197
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5731400aa48e8eb4a9bcfa97921d3af4
+      internalID: -2074819064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFiCreatures_NES_4x30_alphaBG_95
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 197
+        width: 26
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4fc0b29880468d42b870ab40ba89a25
+      internalID: -1585857074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFiCreatures_NES_4x30_alphaBG_96
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 168
+        width: 32
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bf09a68918030147939fa79bfa8fbaf
+      internalID: 1206498024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFiCreatures_NES_4x30_alphaBG_97
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 167
+        width: 32
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 957b773cd9311a541a9acabae550dcc3
+      internalID: -1927236709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFiCreatures_NES_4x30_alphaBG_98
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 166
+        width: 32
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83c2259b5bcfebe4c9fe028c8cf96b69
+      internalID: -493557543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFiCreatures_NES_4x30_alphaBG_99
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 130
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 146ea5f920c697840bb072312ca74bdc
+      internalID: -697259179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFiCreatures_NES_4x30_alphaBG_100
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 130
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 898275f67ce083346b6fed6b34410a13
+      internalID: 1474612802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFiCreatures_NES_4x30_alphaBG_101
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 130
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08419ba2cf1ad3140a10aafaa4b60622
+      internalID: 1524377782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFiCreatures_NES_4x30_alphaBG_102
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 143
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 935e29fc72d9d194bab1530d63279a28
+      internalID: -1376055157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFiCreatures_NES_4x30_alphaBG_103
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 133
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 720856c9cf145ec459e2e8f2acf04ec2
+      internalID: -1078690628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFiCreatures_NES_4x30_alphaBG_104
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 133
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51a25fa83501f7746849ebe18ff2f755
+      internalID: 929515348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFiCreatures_NES_4x30_alphaBG_105
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 97
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b4702f2005f2814f881693c2f8f652e
+      internalID: 1994659265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFiCreatures_NES_4x30_alphaBG_106
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 97
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc44782e7067b794eaeb8cd2f9c68ec9
+      internalID: 15813575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFiCreatures_NES_4x30_alphaBG_107
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 97
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 969e6c1d5740ef641944439551bc6953
+      internalID: -495162776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFiCreatures_NES_4x30_alphaBG_108
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 97
+        width: 32
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0093dae7e946714ebc2c1238b6091e0
+      internalID: -1683602945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFiCreatures_NES_4x30_alphaBG_109
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7206ec40554ac84cb1226241a1aa7f5
+      internalID: -1206038242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFiCreatures_NES_4x30_alphaBG_110
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 31
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb06bd5f13004414299a3362135ec77f
+      internalID: -1028055340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFiCreatures_NES_4x30_alphaBG_111
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 31
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7548e5774b61ce2468bda19dbf8ff85b
+      internalID: 661042858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFiCreatures_NES_4x30_alphaBG_112
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 65
+        width: 31
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4a012b93a1369a4893fa719fc90e654
+      internalID: -1516562438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFiCreatures_NES_4x30_alphaBG_113
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 31
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76b351e7eb87f0e40acc6ddf6f406224
+      internalID: 819904411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFiCreatures_NES_4x30_alphaBG_114
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 33
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfef50d7b0936f54eb3074da78582e8b
+      internalID: -575979773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFiCreatures_NES_4x30_alphaBG_115
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 32
+        width: 31
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cec9e141096c5d344bdd3397cacdc20b
+      internalID: 298560900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFiCreatures_NES_4x30_alphaBG_116
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 32
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4bb074b61983b04d9be1ae1b9ba1025
+      internalID: -871398974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFiCreatures_NES_4x30_alphaBG_117
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 10
+        width: 32
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ff3dd980cd033440b7b7e3dd211bf49
+      internalID: 620483367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFiCreatures_NES_4x30_alphaBG_118
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 10
+        width: 31
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83d620ffe661a9f44b8151ea0b1e8bd4
+      internalID: 674832562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFiCreatures_NES_4x30_alphaBG_119
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 10
+        width: 31
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2de1891a53076545ab94d1a5eabc134
+      internalID: -702373723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFiCreatures_NES_4x30_alphaBG_120
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 2
+        width: 32
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a871f166bb0a37143b85e5ca8f8d3eed
+      internalID: -747101018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      SciFiCreatures_NES_4x30_alphaBG_0: 211289072
+      SciFiCreatures_NES_4x30_alphaBG_1: 1482196212
+      SciFiCreatures_NES_4x30_alphaBG_10: -1204338855
+      SciFiCreatures_NES_4x30_alphaBG_100: 1474612802
+      SciFiCreatures_NES_4x30_alphaBG_101: 1524377782
+      SciFiCreatures_NES_4x30_alphaBG_102: -1376055157
+      SciFiCreatures_NES_4x30_alphaBG_103: -1078690628
+      SciFiCreatures_NES_4x30_alphaBG_104: 929515348
+      SciFiCreatures_NES_4x30_alphaBG_105: 1994659265
+      SciFiCreatures_NES_4x30_alphaBG_106: 15813575
+      SciFiCreatures_NES_4x30_alphaBG_107: -495162776
+      SciFiCreatures_NES_4x30_alphaBG_108: -1683602945
+      SciFiCreatures_NES_4x30_alphaBG_109: -1206038242
+      SciFiCreatures_NES_4x30_alphaBG_11: 1307413489
+      SciFiCreatures_NES_4x30_alphaBG_110: -1028055340
+      SciFiCreatures_NES_4x30_alphaBG_111: 661042858
+      SciFiCreatures_NES_4x30_alphaBG_112: -1516562438
+      SciFiCreatures_NES_4x30_alphaBG_113: 819904411
+      SciFiCreatures_NES_4x30_alphaBG_114: -575979773
+      SciFiCreatures_NES_4x30_alphaBG_115: 298560900
+      SciFiCreatures_NES_4x30_alphaBG_116: -871398974
+      SciFiCreatures_NES_4x30_alphaBG_117: 620483367
+      SciFiCreatures_NES_4x30_alphaBG_118: 674832562
+      SciFiCreatures_NES_4x30_alphaBG_119: -702373723
+      SciFiCreatures_NES_4x30_alphaBG_12: 1350799987
+      SciFiCreatures_NES_4x30_alphaBG_120: -747101018
+      SciFiCreatures_NES_4x30_alphaBG_13: 808274004
+      SciFiCreatures_NES_4x30_alphaBG_14: -61184792
+      SciFiCreatures_NES_4x30_alphaBG_15: -1033965190
+      SciFiCreatures_NES_4x30_alphaBG_16: -57834348
+      SciFiCreatures_NES_4x30_alphaBG_17: -38619798
+      SciFiCreatures_NES_4x30_alphaBG_18: 2111042211
+      SciFiCreatures_NES_4x30_alphaBG_19: -712599296
+      SciFiCreatures_NES_4x30_alphaBG_2: -258869179
+      SciFiCreatures_NES_4x30_alphaBG_20: 1845904141
+      SciFiCreatures_NES_4x30_alphaBG_21: -157612871
+      SciFiCreatures_NES_4x30_alphaBG_22: -827543653
+      SciFiCreatures_NES_4x30_alphaBG_23: 1326391087
+      SciFiCreatures_NES_4x30_alphaBG_24: 1002564982
+      SciFiCreatures_NES_4x30_alphaBG_25: -2080474520
+      SciFiCreatures_NES_4x30_alphaBG_26: 1546246840
+      SciFiCreatures_NES_4x30_alphaBG_27: -872010591
+      SciFiCreatures_NES_4x30_alphaBG_28: -1658643784
+      SciFiCreatures_NES_4x30_alphaBG_29: -1210379759
+      SciFiCreatures_NES_4x30_alphaBG_3: -221783262
+      SciFiCreatures_NES_4x30_alphaBG_30: 320192829
+      SciFiCreatures_NES_4x30_alphaBG_31: -2004141155
+      SciFiCreatures_NES_4x30_alphaBG_32: 1676716737
+      SciFiCreatures_NES_4x30_alphaBG_33: 701991477
+      SciFiCreatures_NES_4x30_alphaBG_34: -907738805
+      SciFiCreatures_NES_4x30_alphaBG_35: -1652213203
+      SciFiCreatures_NES_4x30_alphaBG_36: -1266707313
+      SciFiCreatures_NES_4x30_alphaBG_37: 399643020
+      SciFiCreatures_NES_4x30_alphaBG_38: 112700386
+      SciFiCreatures_NES_4x30_alphaBG_39: -1339481199
+      SciFiCreatures_NES_4x30_alphaBG_4: -1639491218
+      SciFiCreatures_NES_4x30_alphaBG_40: -1490532485
+      SciFiCreatures_NES_4x30_alphaBG_41: 1065439668
+      SciFiCreatures_NES_4x30_alphaBG_42: 1170362072
+      SciFiCreatures_NES_4x30_alphaBG_43: 376000756
+      SciFiCreatures_NES_4x30_alphaBG_44: -1823851814
+      SciFiCreatures_NES_4x30_alphaBG_45: -161978785
+      SciFiCreatures_NES_4x30_alphaBG_46: -1543074152
+      SciFiCreatures_NES_4x30_alphaBG_47: 487959878
+      SciFiCreatures_NES_4x30_alphaBG_48: 685125228
+      SciFiCreatures_NES_4x30_alphaBG_49: -2011086617
+      SciFiCreatures_NES_4x30_alphaBG_5: 31080856
+      SciFiCreatures_NES_4x30_alphaBG_50: 1381326597
+      SciFiCreatures_NES_4x30_alphaBG_51: 232209482
+      SciFiCreatures_NES_4x30_alphaBG_52: 1543185247
+      SciFiCreatures_NES_4x30_alphaBG_53: 1617474917
+      SciFiCreatures_NES_4x30_alphaBG_54: 939965696
+      SciFiCreatures_NES_4x30_alphaBG_55: 1480928530
+      SciFiCreatures_NES_4x30_alphaBG_56: 2102852208
+      SciFiCreatures_NES_4x30_alphaBG_57: -2010056435
+      SciFiCreatures_NES_4x30_alphaBG_58: -900584550
+      SciFiCreatures_NES_4x30_alphaBG_59: -371844370
+      SciFiCreatures_NES_4x30_alphaBG_6: -12166653
+      SciFiCreatures_NES_4x30_alphaBG_60: 406925316
+      SciFiCreatures_NES_4x30_alphaBG_61: 2066519977
+      SciFiCreatures_NES_4x30_alphaBG_62: -43421231
+      SciFiCreatures_NES_4x30_alphaBG_63: -395947735
+      SciFiCreatures_NES_4x30_alphaBG_64: 1202942179
+      SciFiCreatures_NES_4x30_alphaBG_65: -1879879835
+      SciFiCreatures_NES_4x30_alphaBG_66: 158494730
+      SciFiCreatures_NES_4x30_alphaBG_67: -2066813441
+      SciFiCreatures_NES_4x30_alphaBG_68: 722377655
+      SciFiCreatures_NES_4x30_alphaBG_69: 1488850835
+      SciFiCreatures_NES_4x30_alphaBG_7: 1083105080
+      SciFiCreatures_NES_4x30_alphaBG_70: -163101726
+      SciFiCreatures_NES_4x30_alphaBG_71: 28335121
+      SciFiCreatures_NES_4x30_alphaBG_72: -1626685656
+      SciFiCreatures_NES_4x30_alphaBG_73: -795005568
+      SciFiCreatures_NES_4x30_alphaBG_74: -801500071
+      SciFiCreatures_NES_4x30_alphaBG_75: -1015608089
+      SciFiCreatures_NES_4x30_alphaBG_76: -1114672796
+      SciFiCreatures_NES_4x30_alphaBG_77: -1341989831
+      SciFiCreatures_NES_4x30_alphaBG_78: -165521430
+      SciFiCreatures_NES_4x30_alphaBG_79: 658133782
+      SciFiCreatures_NES_4x30_alphaBG_8: 1110664784
+      SciFiCreatures_NES_4x30_alphaBG_80: -1517878716
+      SciFiCreatures_NES_4x30_alphaBG_81: 517548279
+      SciFiCreatures_NES_4x30_alphaBG_82: -1852936523
+      SciFiCreatures_NES_4x30_alphaBG_83: 955222334
+      SciFiCreatures_NES_4x30_alphaBG_84: -970932354
+      SciFiCreatures_NES_4x30_alphaBG_85: 45648896
+      SciFiCreatures_NES_4x30_alphaBG_86: -930591695
+      SciFiCreatures_NES_4x30_alphaBG_87: -193320008
+      SciFiCreatures_NES_4x30_alphaBG_88: 1491249116
+      SciFiCreatures_NES_4x30_alphaBG_89: -275103024
+      SciFiCreatures_NES_4x30_alphaBG_9: -183915356
+      SciFiCreatures_NES_4x30_alphaBG_90: 866621753
+      SciFiCreatures_NES_4x30_alphaBG_91: 1037252795
+      SciFiCreatures_NES_4x30_alphaBG_92: -1460091526
+      SciFiCreatures_NES_4x30_alphaBG_93: -338763815
+      SciFiCreatures_NES_4x30_alphaBG_94: -2074819064
+      SciFiCreatures_NES_4x30_alphaBG_95: -1585857074
+      SciFiCreatures_NES_4x30_alphaBG_96: 1206498024
+      SciFiCreatures_NES_4x30_alphaBG_97: -1927236709
+      SciFiCreatures_NES_4x30_alphaBG_98: -493557543
+      SciFiCreatures_NES_4x30_alphaBG_99: -697259179
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
