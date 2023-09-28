@@ -10,13 +10,14 @@ public class pcScript : MonoBehaviour
     public float vel;
     public float jumpForce;
     public LayerMask ground;
+    
     public GameObject foot;
     // Start is called before the first frame update
     void OnCollisionEnter2D(Collision2D col)
     {
-       if(col.collider.tag == "enemy")
+       if(col.collider.tag == "enemy" || col.collider.gameObject.layer == 7)
         {
-            Destroy(this.gameObject);
+            Destroy(gameObject);
         }
     }
     void Start()
@@ -34,6 +35,7 @@ public class pcScript : MonoBehaviour
         float x = Input.GetAxis("Horizontal");
         rbd.velocity = new Vector2(x * vel, rbd.velocity.y);
         RaycastHit2D groundHitRay = Physics2D.Raycast(foot.transform.position, -foot.transform.up, .5f, ground);
+        
         Collider2D test = foot.GetComponent<Collider2D>();
  
 

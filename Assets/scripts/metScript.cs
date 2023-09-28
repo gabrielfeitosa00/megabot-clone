@@ -9,12 +9,24 @@ public class metScript : MonoBehaviour
     public float vel;
     public LayerMask ground;
     public GameObject colCheck;
-    private float dir = -1;
+    public float dir = -1;
+    public bool flip = false;
+
+    void OnCollisionEnter2D(Collision2D col)
+    {
+        if (  col.collider.gameObject.layer == 7)
+        {
+            Destroy(gameObject);
+        }
+    }
 
     void Start()
     {
         
-
+        if(flip)
+        {
+            transform.Rotate(0, 180, 0);
+        }
         vel = 2f;
 
   
