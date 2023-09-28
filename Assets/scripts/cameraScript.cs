@@ -7,7 +7,7 @@ public class cameraScript : MonoBehaviour
     // Start is called before the first frame update
     public GameObject pc;
     public float x_offset = 5;
-    public float y_offset = 3;
+    public float y_offset = 2;
     void Start()
     {
         
@@ -16,7 +16,12 @@ public class cameraScript : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        Vector3 pos = new Vector3(pc.transform.position.x + x_offset, pc.transform.position.y + y_offset, -10);
-        transform.position = pos;
+        if (pc != null)
+        {
+            Vector3 pos = new Vector3(pc.transform.position.x + x_offset, pc.transform.position.y + y_offset, -10);
+            transform.position = pos;
+
+        }
+  
     }
 }

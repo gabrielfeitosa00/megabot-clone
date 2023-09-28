@@ -12,10 +12,17 @@ public class pcScript : MonoBehaviour
     public LayerMask ground;
     public GameObject foot;
     // Start is called before the first frame update
+    void OnCollisionEnter2D(Collision2D col)
+    {
+       if(col.collider.tag == "enemy")
+        {
+            Destroy(this.gameObject);
+        }
+    }
     void Start()
     {
-        vel = 7;
-        jumpForce = 7;
+        vel = 6;
+        jumpForce = 6;
         rbd = GetComponent<Rigidbody2D>();
         anim = GetComponent<Animator>();
 
@@ -27,9 +34,12 @@ public class pcScript : MonoBehaviour
         float x = Input.GetAxis("Horizontal");
         rbd.velocity = new Vector2(x * vel, rbd.velocity.y);
         RaycastHit2D groundHitRay = Physics2D.Raycast(foot.transform.position, -foot.transform.up, .5f, ground);
-        bool groundHit = groundHitRay.collider != null ? true : false;
+        Collider2D test = foot.GetComponent<Collider2D>();
+ 
+
+
         MovePC(x);
-        JumpPC(groundHit);
+        JumpPC(groundHitRay.collider);
 
 
 
@@ -52,25 +62,29 @@ public class pcScript : MonoBehaviour
         }
     }
 
-    private void JumpPC(bool groundHit)
+    private void JumpPC(Collider2D collider)
     {
+        bool groundHit = collider != null ? true : false;
         if (Input.GetKeyDown(KeyCode.Space) && groundHit)
         {
 
             rbd.AddForce(new Vector2(0, jumpForce), ForceMode2D.Impulse);
             anim.SetBool("isJumping", true);
+            transform.parent = collider.transform; 
 
         }
-        else if (groundHit && rbd.velocity.y < -.1f)
+        else if (!groundHit && rbd.velocity.y < -.1f)
         {
             anim.SetBool("isJumping", false);
             anim.SetBool("isFalling", true);
+            transform.parent = null;
         }
         else if (groundHit && rbd.velocity.y == 0f)
         {
 
             anim.SetBool("isFalling", false);
             anim.SetBool("isJumping", false);
+            transform.parent = collider.transform;
 
         }
     }
