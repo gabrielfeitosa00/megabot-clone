@@ -1,6 +1,8 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
+
 
 public class pcScript : MonoBehaviour
 {
@@ -18,6 +20,7 @@ public class pcScript : MonoBehaviour
        if(col.collider.tag == "enemy" || col.collider.gameObject.layer == 7)
         {
             Destroy(gameObject);
+            SceneManager.LoadSceneAsync(2);
         }
     }
     void Start()
