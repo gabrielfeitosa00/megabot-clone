@@ -14,7 +14,7 @@ GameObject:
   - component: {fileID: 4040415064608370768}
   - component: {fileID: -1851005507010343966}
   - component: {fileID: 3196485127874720274}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Met
   m_TagString: enemy
   m_Icon: {fileID: 0}
@@ -132,7 +132,7 @@ BoxCollider2D:
     m_Bits: 0
   m_ExcludeLayers:
     serializedVersion: 2
-    m_Bits: 0
+    m_Bits: 256
   m_LayerOverridePriority: 0
   m_ForceSendLayers:
     serializedVersion: 2
@@ -149,7 +149,7 @@ BoxCollider2D:
   m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: -0.0030918121, y: -0.11191988}
+  m_Offset: {x: 0.012997389, y: -0.16555154}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
@@ -160,7 +160,7 @@ BoxCollider2D:
     adaptiveTiling: 0
   m_AutoTiling: 0
   serializedVersion: 2
-  m_Size: {x: 0.87556076, y: 0.73500633}
+  m_Size: {x: 0.9720979, y: 0.627743}
   m_EdgeRadius: 0
 --- !u!114 &-1851005507010343966
 MonoBehaviour:
@@ -179,6 +179,8 @@ MonoBehaviour:
     serializedVersion: 2
     m_Bits: 64
   colCheck: {fileID: 5560477469830106997}
+  dir: -1
+  flip: 0
 --- !u!95 &3196485127874720274
 Animator:
   serializedVersion: 5
@@ -209,7 +211,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 7384970592270362733}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: collisionCheck
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -225,7 +227,7 @@ Transform:
   m_GameObject: {fileID: 5560477469830106997}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -0.48, y: -0.083, z: 0}
+  m_LocalPosition: {x: -0.59, y: -0.13, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -242,7 +244,7 @@ GameObject:
   - component: {fileID: 115635644452464912}
   - component: {fileID: 1172319229475420432}
   - component: {fileID: 2340075777417577391}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: head
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -279,7 +281,7 @@ BoxCollider2D:
     m_Bits: 0
   m_ExcludeLayers:
     serializedVersion: 2
-    m_Bits: 0
+    m_Bits: 256
   m_LayerOverridePriority: 0
   m_ForceSendLayers:
     serializedVersion: 2
@@ -296,7 +298,7 @@ BoxCollider2D:
   m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: 0.046937466, y: 0.033526897}
+  m_Offset: {x: 0.052300453, y: 0.054979622}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0, y: 0}
@@ -307,7 +309,7 @@ BoxCollider2D:
     adaptiveTiling: 0
   m_AutoTiling: 0
   serializedVersion: 2
-  m_Size: {x: 0.7809553, y: 0.16405964}
+  m_Size: {x: 1.1349239, y: 0.27132308}
   m_EdgeRadius: 0
 --- !u!114 &2340075777417577391
 MonoBehaviour:

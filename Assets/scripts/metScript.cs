@@ -14,6 +14,7 @@ public class metScript : MonoBehaviour
 
     void OnCollisionEnter2D(Collision2D col)
     {
+      
         if (  col.collider.gameObject.layer == 7)
         {
             Destroy(gameObject);
